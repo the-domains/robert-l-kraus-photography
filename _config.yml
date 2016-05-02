@@ -1,0 +1,28 @@
+name: Robert L Kraus Photography
+favicon: null
+layout_spectrum: 0.0675110868178308
+typography_spectrum: 0.12726451666094363
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.48573402501642704
+  lightness: 0.8015832742676139
+  saturation: 0.5256002845708281
+  rhythmicContrast: 0.5900055759120733
+purpose: []
